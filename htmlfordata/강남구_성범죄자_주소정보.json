@@ -1,0 +1,5162 @@
+[
+  {
+    "roadNmZip": "06000",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로"
+  },
+  {
+    "roadNmZip": "06000",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로189길"
+  },
+  {
+    "roadNmZip": "06000",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정동"
+  },
+  {
+    "roadNmZip": "06000",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로"
+  },
+  {
+    "roadNmZip": "06000",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로11길"
+  },
+  {
+    "roadNmZip": "06002",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로29길"
+  },
+  {
+    "roadNmZip": "06003",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로39길"
+  },
+  {
+    "roadNmZip": "06004",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로33길"
+  },
+  {
+    "roadNmZip": "06009",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로61길"
+  },
+  {
+    "roadNmZip": "06010",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로81길"
+  },
+  {
+    "roadNmZip": "06010",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로190길"
+  },
+  {
+    "roadNmZip": "06010",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로71길"
+  },
+  {
+    "roadNmZip": "06010",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로73길"
+  },
+  {
+    "roadNmZip": "06010",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로75길"
+  },
+  {
+    "roadNmZip": "06010",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "청담동"
+  },
+  {
+    "roadNmZip": "06011",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로"
+  },
+  {
+    "roadNmZip": "06011",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로83길"
+  },
+  {
+    "roadNmZip": "06011",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로85길"
+  },
+  {
+    "roadNmZip": "06011",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로99길"
+  },
+  {
+    "roadNmZip": "06011",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로77길"
+  },
+  {
+    "roadNmZip": "06011",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로79길"
+  },
+  {
+    "roadNmZip": "06012",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로87길"
+  },
+  {
+    "roadNmZip": "06012",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로89길"
+  },
+  {
+    "roadNmZip": "06013",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로101길"
+  },
+  {
+    "roadNmZip": "06014",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로55길"
+  },
+  {
+    "roadNmZip": "06014",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로57길"
+  },
+  {
+    "roadNmZip": "06014",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로"
+  },
+  {
+    "roadNmZip": "06014",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로152길"
+  },
+  {
+    "roadNmZip": "06014",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로158길"
+  },
+  {
+    "roadNmZip": "06014",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로160길"
+  },
+  {
+    "roadNmZip": "06014",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로162길"
+  },
+  {
+    "roadNmZip": "06014",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로60길"
+  },
+  {
+    "roadNmZip": "06015",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로67길"
+  },
+  {
+    "roadNmZip": "06015",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로75길"
+  },
+  {
+    "roadNmZip": "06015",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로62길"
+  },
+  {
+    "roadNmZip": "06015",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로72길"
+  },
+  {
+    "roadNmZip": "06015",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로80길"
+  },
+  {
+    "roadNmZip": "06016",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로59길"
+  },
+  {
+    "roadNmZip": "06016",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로61길"
+  },
+  {
+    "roadNmZip": "06016",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로63길"
+  },
+  {
+    "roadNmZip": "06017",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "신사동"
+  },
+  {
+    "roadNmZip": "06017",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로42길"
+  },
+  {
+    "roadNmZip": "06017",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로46길"
+  },
+  {
+    "roadNmZip": "06017",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로48길"
+  },
+  {
+    "roadNmZip": "06017",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로"
+  },
+  {
+    "roadNmZip": "06017",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로168길"
+  },
+  {
+    "roadNmZip": "06017",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로170길"
+  },
+  {
+    "roadNmZip": "06017",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로172길"
+  },
+  {
+    "roadNmZip": "06017",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로174길"
+  },
+  {
+    "roadNmZip": "06018",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로51길"
+  },
+  {
+    "roadNmZip": "06018",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로53길"
+  },
+  {
+    "roadNmZip": "06018",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로155길"
+  },
+  {
+    "roadNmZip": "06018",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로157길"
+  },
+  {
+    "roadNmZip": "06018",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로161길"
+  },
+  {
+    "roadNmZip": "06018",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로50길"
+  },
+  {
+    "roadNmZip": "06018",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로54길"
+  },
+  {
+    "roadNmZip": "06018",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로56길"
+  },
+  {
+    "roadNmZip": "06019",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로49길"
+  },
+  {
+    "roadNmZip": "06019",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로153길"
+  },
+  {
+    "roadNmZip": "06020",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로45길"
+  },
+  {
+    "roadNmZip": "06020",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로164길"
+  },
+  {
+    "roadNmZip": "06021",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로152길"
+  },
+  {
+    "roadNmZip": "06021",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로154길"
+  },
+  {
+    "roadNmZip": "06022",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로"
+  },
+  {
+    "roadNmZip": "06022",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로168길"
+  },
+  {
+    "roadNmZip": "06022",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로172길"
+  },
+  {
+    "roadNmZip": "06022",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로176길"
+  },
+  {
+    "roadNmZip": "06022",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로30길"
+  },
+  {
+    "roadNmZip": "06022",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로32길"
+  },
+  {
+    "roadNmZip": "06022",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로34길"
+  },
+  {
+    "roadNmZip": "06022",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로167길"
+  },
+  {
+    "roadNmZip": "06023",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로36길"
+  },
+  {
+    "roadNmZip": "06023",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로38길"
+  },
+  {
+    "roadNmZip": "06023",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로159길"
+  },
+  {
+    "roadNmZip": "06023",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로165길"
+  },
+  {
+    "roadNmZip": "06023",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로171길"
+  },
+  {
+    "roadNmZip": "06023",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로173길"
+  },
+  {
+    "roadNmZip": "06024",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로152길"
+  },
+  {
+    "roadNmZip": "06024",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로158길"
+  },
+  {
+    "roadNmZip": "06024",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로160길"
+  },
+  {
+    "roadNmZip": "06024",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로164길"
+  },
+  {
+    "roadNmZip": "06024",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로35길"
+  },
+  {
+    "roadNmZip": "06024",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로37길"
+  },
+  {
+    "roadNmZip": "06024",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로153길"
+  },
+  {
+    "roadNmZip": "06024",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로157길"
+  },
+  {
+    "roadNmZip": "06025",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로154길"
+  },
+  {
+    "roadNmZip": "06025",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로33길"
+  },
+  {
+    "roadNmZip": "06026",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로151길"
+  },
+  {
+    "roadNmZip": "06027",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로160길"
+  },
+  {
+    "roadNmZip": "06027",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로162길"
+  },
+  {
+    "roadNmZip": "06027",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로1길"
+  },
+  {
+    "roadNmZip": "06027",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로2길"
+  },
+  {
+    "roadNmZip": "06027",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로4길"
+  },
+  {
+    "roadNmZip": "06028",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "가로수길"
+  },
+  {
+    "roadNmZip": "06028",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로175길"
+  },
+  {
+    "roadNmZip": "06028",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로10길"
+  },
+  {
+    "roadNmZip": "06028",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로8길"
+  },
+  {
+    "roadNmZip": "06029",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로159길"
+  },
+  {
+    "roadNmZip": "06029",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로161길"
+  },
+  {
+    "roadNmZip": "06029",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로14길"
+  },
+  {
+    "roadNmZip": "06029",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로18길"
+  },
+  {
+    "roadNmZip": "06030",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로167길"
+  },
+  {
+    "roadNmZip": "06030",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로171길"
+  },
+  {
+    "roadNmZip": "06030",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로20길"
+  },
+  {
+    "roadNmZip": "06030",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로22길"
+  },
+  {
+    "roadNmZip": "06030",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "압구정로28길"
+  },
+  {
+    "roadNmZip": "06031",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로163길"
+  },
+  {
+    "roadNmZip": "06032",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로151길"
+  },
+  {
+    "roadNmZip": "06032",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로155길"
+  },
+  {
+    "roadNmZip": "06032",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로157길"
+  },
+  {
+    "roadNmZip": "06032",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로25길"
+  },
+  {
+    "roadNmZip": "06032",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로27길"
+  },
+  {
+    "roadNmZip": "06033",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로153길"
+  },
+  {
+    "roadNmZip": "06033",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로15길"
+  },
+  {
+    "roadNmZip": "06033",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로17길"
+  },
+  {
+    "roadNmZip": "06033",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로19길"
+  },
+  {
+    "roadNmZip": "06033",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로23길"
+  },
+  {
+    "roadNmZip": "06034",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로156길"
+  },
+  {
+    "roadNmZip": "06034",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로158길"
+  },
+  {
+    "roadNmZip": "06034",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로11길"
+  },
+  {
+    "roadNmZip": "06035",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로152길"
+  },
+  {
+    "roadNmZip": "06035",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로154길"
+  },
+  {
+    "roadNmZip": "06038",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로146길"
+  },
+  {
+    "roadNmZip": "06038",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로150길"
+  },
+  {
+    "roadNmZip": "06038",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현동"
+  },
+  {
+    "roadNmZip": "06038",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로4길"
+  },
+  {
+    "roadNmZip": "06038",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로6길"
+  },
+  {
+    "roadNmZip": "06038",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로8길"
+  },
+  {
+    "roadNmZip": "06039",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로145길"
+  },
+  {
+    "roadNmZip": "06039",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로149길"
+  },
+  {
+    "roadNmZip": "06039",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로12길"
+  },
+  {
+    "roadNmZip": "06039",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로16길"
+  },
+  {
+    "roadNmZip": "06039",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로11길"
+  },
+  {
+    "roadNmZip": "06040",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로24길"
+  },
+  {
+    "roadNmZip": "06040",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로26길"
+  },
+  {
+    "roadNmZip": "06040",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로28길"
+  },
+  {
+    "roadNmZip": "06041",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로135길"
+  },
+  {
+    "roadNmZip": "06041",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로139길"
+  },
+  {
+    "roadNmZip": "06041",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로23길"
+  },
+  {
+    "roadNmZip": "06041",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로25길"
+  },
+  {
+    "roadNmZip": "06042",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로136길"
+  },
+  {
+    "roadNmZip": "06042",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로140길"
+  },
+  {
+    "roadNmZip": "06042",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로17길"
+  },
+  {
+    "roadNmZip": "06042",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로19길"
+  },
+  {
+    "roadNmZip": "06042",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로21길"
+  },
+  {
+    "roadNmZip": "06043",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로3길"
+  },
+  {
+    "roadNmZip": "06043",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로7길"
+  },
+  {
+    "roadNmZip": "06043",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로9길"
+  },
+  {
+    "roadNmZip": "06044",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로132길"
+  },
+  {
+    "roadNmZip": "06044",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로"
+  },
+  {
+    "roadNmZip": "06044",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로1길"
+  },
+  {
+    "roadNmZip": "06044",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로5길"
+  },
+  {
+    "roadNmZip": "06045",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로131길"
+  },
+  {
+    "roadNmZip": "06046",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로133길"
+  },
+  {
+    "roadNmZip": "06047",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로150길"
+  },
+  {
+    "roadNmZip": "06047",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로30길"
+  },
+  {
+    "roadNmZip": "06047",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로34길"
+  },
+  {
+    "roadNmZip": "06048",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로38길"
+  },
+  {
+    "roadNmZip": "06048",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로147길"
+  },
+  {
+    "roadNmZip": "06048",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로149길"
+  },
+  {
+    "roadNmZip": "06049",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로142길"
+  },
+  {
+    "roadNmZip": "06049",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로146길"
+  },
+  {
+    "roadNmZip": "06049",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로141길"
+  },
+  {
+    "roadNmZip": "06051",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로136길"
+  },
+  {
+    "roadNmZip": "06051",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로138길"
+  },
+  {
+    "roadNmZip": "06051",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로140길"
+  },
+  {
+    "roadNmZip": "06051",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로135길"
+  },
+  {
+    "roadNmZip": "06051",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로31길"
+  },
+  {
+    "roadNmZip": "06051",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로33길"
+  },
+  {
+    "roadNmZip": "06052",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로132길"
+  },
+  {
+    "roadNmZip": "06052",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로134길"
+  },
+  {
+    "roadNmZip": "06053",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로133길"
+  },
+  {
+    "roadNmZip": "06053",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로37길"
+  },
+  {
+    "roadNmZip": "06054",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로46길"
+  },
+  {
+    "roadNmZip": "06054",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로50길"
+  },
+  {
+    "roadNmZip": "06054",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로148길"
+  },
+  {
+    "roadNmZip": "06054",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로150길"
+  },
+  {
+    "roadNmZip": "06055",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로54길"
+  },
+  {
+    "roadNmZip": "06055",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로145길"
+  },
+  {
+    "roadNmZip": "06056",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로137길"
+  },
+  {
+    "roadNmZip": "06056",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로141길"
+  },
+  {
+    "roadNmZip": "06056",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로146길"
+  },
+  {
+    "roadNmZip": "06058",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로134길"
+  },
+  {
+    "roadNmZip": "06058",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로136길"
+  },
+  {
+    "roadNmZip": "06058",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로138길"
+  },
+  {
+    "roadNmZip": "06058",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로140길"
+  },
+  {
+    "roadNmZip": "06058",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로41길"
+  },
+  {
+    "roadNmZip": "06058",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로43길"
+  },
+  {
+    "roadNmZip": "06059",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로131길"
+  },
+  {
+    "roadNmZip": "06059",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로133길"
+  },
+  {
+    "roadNmZip": "06059",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로135길"
+  },
+  {
+    "roadNmZip": "06059",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로47길"
+  },
+  {
+    "roadNmZip": "06059",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로53길"
+  },
+  {
+    "roadNmZip": "06060",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로45길"
+  },
+  {
+    "roadNmZip": "06062",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로56길"
+  },
+  {
+    "roadNmZip": "06062",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로58길"
+  },
+  {
+    "roadNmZip": "06062",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로72길"
+  },
+  {
+    "roadNmZip": "06062",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로78길"
+  },
+  {
+    "roadNmZip": "06062",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로"
+  },
+  {
+    "roadNmZip": "06062",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로149길"
+  },
+  {
+    "roadNmZip": "06062",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로146길"
+  },
+  {
+    "roadNmZip": "06062",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로148길"
+  },
+  {
+    "roadNmZip": "06063",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로70길"
+  },
+  {
+    "roadNmZip": "06063",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로145길"
+  },
+  {
+    "roadNmZip": "06063",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로147길"
+  },
+  {
+    "roadNmZip": "06064",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로62길"
+  },
+  {
+    "roadNmZip": "06064",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로66길"
+  },
+  {
+    "roadNmZip": "06064",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로68길"
+  },
+  {
+    "roadNmZip": "06065",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로132길"
+  },
+  {
+    "roadNmZip": "06065",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로134길"
+  },
+  {
+    "roadNmZip": "06065",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로138길"
+  },
+  {
+    "roadNmZip": "06065",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로55길"
+  },
+  {
+    "roadNmZip": "06065",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로59길"
+  },
+  {
+    "roadNmZip": "06066",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로135길"
+  },
+  {
+    "roadNmZip": "06066",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로63길"
+  },
+  {
+    "roadNmZip": "06066",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로67길"
+  },
+  {
+    "roadNmZip": "06067",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로133길"
+  },
+  {
+    "roadNmZip": "06067",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로141길"
+  },
+  {
+    "roadNmZip": "06067",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로73길"
+  },
+  {
+    "roadNmZip": "06067",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로77길"
+  },
+  {
+    "roadNmZip": "06070",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로90길"
+  },
+  {
+    "roadNmZip": "06070",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로92길"
+  },
+  {
+    "roadNmZip": "06070",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로96길"
+  },
+  {
+    "roadNmZip": "06070",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로140길"
+  },
+  {
+    "roadNmZip": "06070",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로144길"
+  },
+  {
+    "roadNmZip": "06070",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로146길"
+  },
+  {
+    "roadNmZip": "06070",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로148길"
+  },
+  {
+    "roadNmZip": "06071",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로100길"
+  },
+  {
+    "roadNmZip": "06071",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로102길"
+  },
+  {
+    "roadNmZip": "06071",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로94길"
+  },
+  {
+    "roadNmZip": "06071",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도산대로98길"
+  },
+  {
+    "roadNmZip": "06071",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로"
+  },
+  {
+    "roadNmZip": "06071",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로141길"
+  },
+  {
+    "roadNmZip": "06071",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로97길"
+  },
+  {
+    "roadNmZip": "06072",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로131길"
+  },
+  {
+    "roadNmZip": "06072",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로137길"
+  },
+  {
+    "roadNmZip": "06072",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로95길"
+  },
+  {
+    "roadNmZip": "06073",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로81길"
+  },
+  {
+    "roadNmZip": "06074",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로134길"
+  },
+  {
+    "roadNmZip": "06074",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로87길"
+  },
+  {
+    "roadNmZip": "06075",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로138길"
+  },
+  {
+    "roadNmZip": "06075",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로142길"
+  },
+  {
+    "roadNmZip": "06075",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로101길"
+  },
+  {
+    "roadNmZip": "06077",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로105길"
+  },
+  {
+    "roadNmZip": "06078",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성동"
+  },
+  {
+    "roadNmZip": "06078",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로128길"
+  },
+  {
+    "roadNmZip": "06079",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로109길"
+  },
+  {
+    "roadNmZip": "06079",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로113길"
+  },
+  {
+    "roadNmZip": "06079",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로118길"
+  },
+  {
+    "roadNmZip": "06079",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로122길"
+  },
+  {
+    "roadNmZip": "06079",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "올림픽대로"
+  },
+  {
+    "roadNmZip": "06080",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로105길"
+  },
+  {
+    "roadNmZip": "06081",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로114길"
+  },
+  {
+    "roadNmZip": "06081",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로116길"
+  },
+  {
+    "roadNmZip": "06082",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로111길"
+  },
+  {
+    "roadNmZip": "06082",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로112길"
+  },
+  {
+    "roadNmZip": "06083",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로"
+  },
+  {
+    "roadNmZip": "06083",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로103길"
+  },
+  {
+    "roadNmZip": "06084",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로120길"
+  },
+  {
+    "roadNmZip": "06084",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로126길"
+  },
+  {
+    "roadNmZip": "06084",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로82길"
+  },
+  {
+    "roadNmZip": "06084",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로88길"
+  },
+  {
+    "roadNmZip": "06085",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로112길"
+  },
+  {
+    "roadNmZip": "06085",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로116길"
+  },
+  {
+    "roadNmZip": "06085",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로118길"
+  },
+  {
+    "roadNmZip": "06085",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로122길"
+  },
+  {
+    "roadNmZip": "06085",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로129길"
+  },
+  {
+    "roadNmZip": "06086",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로81길"
+  },
+  {
+    "roadNmZip": "06087",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로97길"
+  },
+  {
+    "roadNmZip": "06087",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로99길"
+  },
+  {
+    "roadNmZip": "06087",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로115길"
+  },
+  {
+    "roadNmZip": "06088",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로130길"
+  },
+  {
+    "roadNmZip": "06088",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로56길"
+  },
+  {
+    "roadNmZip": "06089",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로64길"
+  },
+  {
+    "roadNmZip": "06089",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로68길"
+  },
+  {
+    "roadNmZip": "06091",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로119길"
+  },
+  {
+    "roadNmZip": "06092",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로57길"
+  },
+  {
+    "roadNmZip": "06092",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로120길"
+  },
+  {
+    "roadNmZip": "06092",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로122길"
+  },
+  {
+    "roadNmZip": "06092",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로126길"
+  },
+  {
+    "roadNmZip": "06093",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로55길"
+  },
+  {
+    "roadNmZip": "06093",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로59길"
+  },
+  {
+    "roadNmZip": "06093",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로61길"
+  },
+  {
+    "roadNmZip": "06093",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로63길"
+  },
+  {
+    "roadNmZip": "06093",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로116길"
+  },
+  {
+    "roadNmZip": "06093",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로118길"
+  },
+  {
+    "roadNmZip": "06094",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로67길"
+  },
+  {
+    "roadNmZip": "06094",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로69길"
+  },
+  {
+    "roadNmZip": "06094",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로71길"
+  },
+  {
+    "roadNmZip": "06094",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로73길"
+  },
+  {
+    "roadNmZip": "06094",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로115길"
+  },
+  {
+    "roadNmZip": "06095",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로111길"
+  },
+  {
+    "roadNmZip": "06096",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로112길"
+  },
+  {
+    "roadNmZip": "06098",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로126길"
+  },
+  {
+    "roadNmZip": "06098",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로130길"
+  },
+  {
+    "roadNmZip": "06098",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로42길"
+  },
+  {
+    "roadNmZip": "06098",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로44길"
+  },
+  {
+    "roadNmZip": "06099",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로125길"
+  },
+  {
+    "roadNmZip": "06099",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로127길"
+  },
+  {
+    "roadNmZip": "06099",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로129길"
+  },
+  {
+    "roadNmZip": "06099",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로46길"
+  },
+  {
+    "roadNmZip": "06099",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로48길"
+  },
+  {
+    "roadNmZip": "06099",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로50길"
+  },
+  {
+    "roadNmZip": "06100",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로43길"
+  },
+  {
+    "roadNmZip": "06100",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로47길"
+  },
+  {
+    "roadNmZip": "06100",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로49길"
+  },
+  {
+    "roadNmZip": "06100",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로51길"
+  },
+  {
+    "roadNmZip": "06100",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로115길"
+  },
+  {
+    "roadNmZip": "06100",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로119길"
+  },
+  {
+    "roadNmZip": "06100",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로121길"
+  },
+  {
+    "roadNmZip": "06101",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로116길"
+  },
+  {
+    "roadNmZip": "06101",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로122길"
+  },
+  {
+    "roadNmZip": "06101",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로124길"
+  },
+  {
+    "roadNmZip": "06102",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로114길"
+  },
+  {
+    "roadNmZip": "06103",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로111길"
+  },
+  {
+    "roadNmZip": "06104",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로128길"
+  },
+  {
+    "roadNmZip": "06104",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로129길"
+  },
+  {
+    "roadNmZip": "06104",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로30길"
+  },
+  {
+    "roadNmZip": "06104",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로34길"
+  },
+  {
+    "roadNmZip": "06104",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로38길"
+  },
+  {
+    "roadNmZip": "06105",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로124길"
+  },
+  {
+    "roadNmZip": "06105",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로126길"
+  },
+  {
+    "roadNmZip": "06105",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로125길"
+  },
+  {
+    "roadNmZip": "06106",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로120길"
+  },
+  {
+    "roadNmZip": "06106",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로122길"
+  },
+  {
+    "roadNmZip": "06106",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로121길"
+  },
+  {
+    "roadNmZip": "06107",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로116길"
+  },
+  {
+    "roadNmZip": "06107",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로118길"
+  },
+  {
+    "roadNmZip": "06107",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로29길"
+  },
+  {
+    "roadNmZip": "06107",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로33길"
+  },
+  {
+    "roadNmZip": "06107",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로37길"
+  },
+  {
+    "roadNmZip": "06107",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로115길"
+  },
+  {
+    "roadNmZip": "06108",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로114길"
+  },
+  {
+    "roadNmZip": "06108",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로113길"
+  },
+  {
+    "roadNmZip": "06110",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로128길"
+  },
+  {
+    "roadNmZip": "06110",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로2길"
+  },
+  {
+    "roadNmZip": "06110",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로4길"
+  },
+  {
+    "roadNmZip": "06110",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로6길"
+  },
+  {
+    "roadNmZip": "06111",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로12길"
+  },
+  {
+    "roadNmZip": "06111",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로14길"
+  },
+  {
+    "roadNmZip": "06111",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로8길"
+  },
+  {
+    "roadNmZip": "06112",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로123길"
+  },
+  {
+    "roadNmZip": "06112",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로127길"
+  },
+  {
+    "roadNmZip": "06112",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로20길"
+  },
+  {
+    "roadNmZip": "06112",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로24길"
+  },
+  {
+    "roadNmZip": "06112",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로26길"
+  },
+  {
+    "roadNmZip": "06112",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로28길"
+  },
+  {
+    "roadNmZip": "06113",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로124길"
+  },
+  {
+    "roadNmZip": "06113",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로126길"
+  },
+  {
+    "roadNmZip": "06113",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "학동로18길"
+  },
+  {
+    "roadNmZip": "06114",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로122길"
+  },
+  {
+    "roadNmZip": "06115",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로115길"
+  },
+  {
+    "roadNmZip": "06115",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로21길"
+  },
+  {
+    "roadNmZip": "06115",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로7길"
+  },
+  {
+    "roadNmZip": "06116",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로119길"
+  },
+  {
+    "roadNmZip": "06116",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로121길"
+  },
+  {
+    "roadNmZip": "06116",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로11길"
+  },
+  {
+    "roadNmZip": "06116",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로25길"
+  },
+  {
+    "roadNmZip": "06117",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로117길"
+  },
+  {
+    "roadNmZip": "06118",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로118길"
+  },
+  {
+    "roadNmZip": "06118",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로120길"
+  },
+  {
+    "roadNmZip": "06118",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로13길"
+  },
+  {
+    "roadNmZip": "06119",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로1길"
+  },
+  {
+    "roadNmZip": "06120",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로112길"
+  },
+  {
+    "roadNmZip": "06120",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로114길"
+  },
+  {
+    "roadNmZip": "06120",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로116길"
+  },
+  {
+    "roadNmZip": "06120",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로5길"
+  },
+  {
+    "roadNmZip": "06120",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼동"
+  },
+  {
+    "roadNmZip": "06122",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로111길"
+  },
+  {
+    "roadNmZip": "06122",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로113길"
+  },
+  {
+    "roadNmZip": "06123",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로102길"
+  },
+  {
+    "roadNmZip": "06123",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로106길"
+  },
+  {
+    "roadNmZip": "06123",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로110길"
+  },
+  {
+    "roadNmZip": "06123",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로2길"
+  },
+  {
+    "roadNmZip": "06123",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로4길"
+  },
+  {
+    "roadNmZip": "06123",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로6길"
+  },
+  {
+    "roadNmZip": "06124",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로105길"
+  },
+  {
+    "roadNmZip": "06124",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로16길"
+  },
+  {
+    "roadNmZip": "06125",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로18길"
+  },
+  {
+    "roadNmZip": "06125",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로24길"
+  },
+  {
+    "roadNmZip": "06125",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로26길"
+  },
+  {
+    "roadNmZip": "06126",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로101길"
+  },
+  {
+    "roadNmZip": "06126",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로97길"
+  },
+  {
+    "roadNmZip": "06126",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로99길"
+  },
+  {
+    "roadNmZip": "06126",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로20길"
+  },
+  {
+    "roadNmZip": "06126",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로19길"
+  },
+  {
+    "roadNmZip": "06126",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로25길"
+  },
+  {
+    "roadNmZip": "06127",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로22길"
+  },
+  {
+    "roadNmZip": "06127",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로13길"
+  },
+  {
+    "roadNmZip": "06128",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로100길"
+  },
+  {
+    "roadNmZip": "06128",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로5길"
+  },
+  {
+    "roadNmZip": "06129",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로94길"
+  },
+  {
+    "roadNmZip": "06129",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로96길"
+  },
+  {
+    "roadNmZip": "06129",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로98길"
+  },
+  {
+    "roadNmZip": "06129",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로1길"
+  },
+  {
+    "roadNmZip": "06130",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로7길"
+  },
+  {
+    "roadNmZip": "06131",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로93길"
+  },
+  {
+    "roadNmZip": "06131",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로95길"
+  },
+  {
+    "roadNmZip": "06131",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로21길"
+  },
+  {
+    "roadNmZip": "06132",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로"
+  },
+  {
+    "roadNmZip": "06134",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로92길"
+  },
+  {
+    "roadNmZip": "06135",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로30길"
+  },
+  {
+    "roadNmZip": "06135",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로34길"
+  },
+  {
+    "roadNmZip": "06135",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로38길"
+  },
+  {
+    "roadNmZip": "06135",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로107길"
+  },
+  {
+    "roadNmZip": "06136",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로102길"
+  },
+  {
+    "roadNmZip": "06136",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로104길"
+  },
+  {
+    "roadNmZip": "06136",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로106길"
+  },
+  {
+    "roadNmZip": "06136",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로98길"
+  },
+  {
+    "roadNmZip": "06136",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로103길"
+  },
+  {
+    "roadNmZip": "06136",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로27길"
+  },
+  {
+    "roadNmZip": "06137",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로97길"
+  },
+  {
+    "roadNmZip": "06137",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로99길"
+  },
+  {
+    "roadNmZip": "06137",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로39길"
+  },
+  {
+    "roadNmZip": "06139",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로93길"
+  },
+  {
+    "roadNmZip": "06139",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로33길"
+  },
+  {
+    "roadNmZip": "06139",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로37길"
+  },
+  {
+    "roadNmZip": "06140",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로94길"
+  },
+  {
+    "roadNmZip": "06141",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로29길"
+  },
+  {
+    "roadNmZip": "06143",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로44길"
+  },
+  {
+    "roadNmZip": "06143",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로48길"
+  },
+  {
+    "roadNmZip": "06143",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로50길"
+  },
+  {
+    "roadNmZip": "06143",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로52길"
+  },
+  {
+    "roadNmZip": "06143",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로54길"
+  },
+  {
+    "roadNmZip": "06143",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로107길"
+  },
+  {
+    "roadNmZip": "06143",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로108길"
+  },
+  {
+    "roadNmZip": "06144",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로104길"
+  },
+  {
+    "roadNmZip": "06144",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로106길"
+  },
+  {
+    "roadNmZip": "06145",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로103길"
+  },
+  {
+    "roadNmZip": "06145",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로105길"
+  },
+  {
+    "roadNmZip": "06145",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로53길"
+  },
+  {
+    "roadNmZip": "06146",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로100길"
+  },
+  {
+    "roadNmZip": "06146",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로43길"
+  },
+  {
+    "roadNmZip": "06146",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로51길"
+  },
+  {
+    "roadNmZip": "06147",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로94길"
+  },
+  {
+    "roadNmZip": "06147",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로98길"
+  },
+  {
+    "roadNmZip": "06148",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로93길"
+  },
+  {
+    "roadNmZip": "06148",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로47길"
+  },
+  {
+    "roadNmZip": "06149",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로99길"
+  },
+  {
+    "roadNmZip": "06149",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로55길"
+  },
+  {
+    "roadNmZip": "06149",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로57길"
+  },
+  {
+    "roadNmZip": "06150",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로91길"
+  },
+  {
+    "roadNmZip": "06153",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로64길"
+  },
+  {
+    "roadNmZip": "06153",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로68길"
+  },
+  {
+    "roadNmZip": "06153",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로100길"
+  },
+  {
+    "roadNmZip": "06153",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로108길"
+  },
+  {
+    "roadNmZip": "06154",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로70길"
+  },
+  {
+    "roadNmZip": "06154",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로72길"
+  },
+  {
+    "roadNmZip": "06154",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로74길"
+  },
+  {
+    "roadNmZip": "06154",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로78길"
+  },
+  {
+    "roadNmZip": "06154",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로107길"
+  },
+  {
+    "roadNmZip": "06155",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로103길"
+  },
+  {
+    "roadNmZip": "06156",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로99길"
+  },
+  {
+    "roadNmZip": "06156",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로77길"
+  },
+  {
+    "roadNmZip": "06156",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로79길"
+  },
+  {
+    "roadNmZip": "06157",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로95길"
+  },
+  {
+    "roadNmZip": "06159",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로91길"
+  },
+  {
+    "roadNmZip": "06159",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로69길"
+  },
+  {
+    "roadNmZip": "06160",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로92길"
+  },
+  {
+    "roadNmZip": "06160",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로63길"
+  },
+  {
+    "roadNmZip": "06161",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로94길"
+  },
+  {
+    "roadNmZip": "06161",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로96길"
+  },
+  {
+    "roadNmZip": "06163",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로82길"
+  },
+  {
+    "roadNmZip": "06163",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로84길"
+  },
+  {
+    "roadNmZip": "06163",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로86길"
+  },
+  {
+    "roadNmZip": "06163",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로108길"
+  },
+  {
+    "roadNmZip": "06164",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로87길"
+  },
+  {
+    "roadNmZip": "06165",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로104길"
+  },
+  {
+    "roadNmZip": "06166",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로100길"
+  },
+  {
+    "roadNmZip": "06166",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로81길"
+  },
+  {
+    "roadNmZip": "06166",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로83길"
+  },
+  {
+    "roadNmZip": "06167",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로96길"
+  },
+  {
+    "roadNmZip": "06168",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로92길"
+  },
+  {
+    "roadNmZip": "06170",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로104길"
+  },
+  {
+    "roadNmZip": "06170",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로108길"
+  },
+  {
+    "roadNmZip": "06170",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로112길"
+  },
+  {
+    "roadNmZip": "06170",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "봉은사로114길"
+  },
+  {
+    "roadNmZip": "06170",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로106길"
+  },
+  {
+    "roadNmZip": "06171",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로113길"
+  },
+  {
+    "roadNmZip": "06171",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로115길"
+  },
+  {
+    "roadNmZip": "06172",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로96길"
+  },
+  {
+    "roadNmZip": "06173",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로103길"
+  },
+  {
+    "roadNmZip": "06173",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로107길"
+  },
+  {
+    "roadNmZip": "06174",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "대치동"
+  },
+  {
+    "roadNmZip": "06174",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로82길"
+  },
+  {
+    "roadNmZip": "06174",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로86길"
+  },
+  {
+    "roadNmZip": "06174",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로104길"
+  },
+  {
+    "roadNmZip": "06174",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로108길"
+  },
+  {
+    "roadNmZip": "06175",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로114길"
+  },
+  {
+    "roadNmZip": "06176",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로"
+  },
+  {
+    "roadNmZip": "06176",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로103길"
+  },
+  {
+    "roadNmZip": "06176",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로76길"
+  },
+  {
+    "roadNmZip": "06177",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로"
+  },
+  {
+    "roadNmZip": "06177",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로107길"
+  },
+  {
+    "roadNmZip": "06177",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로72길"
+  },
+  {
+    "roadNmZip": "06178",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로86길"
+  },
+  {
+    "roadNmZip": "06178",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로82길"
+  },
+  {
+    "roadNmZip": "06178",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로84길"
+  },
+  {
+    "roadNmZip": "06179",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로86길"
+  },
+  {
+    "roadNmZip": "06179",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로88길"
+  },
+  {
+    "roadNmZip": "06180",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로85길"
+  },
+  {
+    "roadNmZip": "06180",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로92길"
+  },
+  {
+    "roadNmZip": "06181",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로98길"
+  },
+  {
+    "roadNmZip": "06182",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로75길"
+  },
+  {
+    "roadNmZip": "06183",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로87길"
+  },
+  {
+    "roadNmZip": "06184",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로76길"
+  },
+  {
+    "roadNmZip": "06184",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로82길"
+  },
+  {
+    "roadNmZip": "06184",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로84길"
+  },
+  {
+    "roadNmZip": "06184",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로83길"
+  },
+  {
+    "roadNmZip": "06185",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로81길"
+  },
+  {
+    "roadNmZip": "06186",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로68길"
+  },
+  {
+    "roadNmZip": "06186",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로70길"
+  },
+  {
+    "roadNmZip": "06186",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로72길"
+  },
+  {
+    "roadNmZip": "06186",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로84길"
+  },
+  {
+    "roadNmZip": "06187",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로99길"
+  },
+  {
+    "roadNmZip": "06187",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로88길"
+  },
+  {
+    "roadNmZip": "06187",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로90길"
+  },
+  {
+    "roadNmZip": "06187",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로92길"
+  },
+  {
+    "roadNmZip": "06187",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로98길"
+  },
+  {
+    "roadNmZip": "06187",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로65길"
+  },
+  {
+    "roadNmZip": "06187",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로71길"
+  },
+  {
+    "roadNmZip": "06189",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로93길"
+  },
+  {
+    "roadNmZip": "06190",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로83길"
+  },
+  {
+    "roadNmZip": "06190",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로87길"
+  },
+  {
+    "roadNmZip": "06190",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로62길"
+  },
+  {
+    "roadNmZip": "06190",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로64길"
+  },
+  {
+    "roadNmZip": "06192",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로86길"
+  },
+  {
+    "roadNmZip": "06192",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로90길"
+  },
+  {
+    "roadNmZip": "06192",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로64길"
+  },
+  {
+    "roadNmZip": "06193",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로68길"
+  },
+  {
+    "roadNmZip": "06193",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로70길"
+  },
+  {
+    "roadNmZip": "06194",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로85길"
+  },
+  {
+    "roadNmZip": "06194",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로78길"
+  },
+  {
+    "roadNmZip": "06195",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로75길"
+  },
+  {
+    "roadNmZip": "06195",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로81길"
+  },
+  {
+    "roadNmZip": "06195",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로77길"
+  },
+  {
+    "roadNmZip": "06196",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로69길"
+  },
+  {
+    "roadNmZip": "06196",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로71길"
+  },
+  {
+    "roadNmZip": "06196",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로73길"
+  },
+  {
+    "roadNmZip": "06197",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로76길"
+  },
+  {
+    "roadNmZip": "06197",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로82길"
+  },
+  {
+    "roadNmZip": "06197",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로63길"
+  },
+  {
+    "roadNmZip": "06197",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로65길"
+  },
+  {
+    "roadNmZip": "06197",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로67길"
+  },
+  {
+    "roadNmZip": "06199",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로68길"
+  },
+  {
+    "roadNmZip": "06199",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로72길"
+  },
+  {
+    "roadNmZip": "06199",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로64길"
+  },
+  {
+    "roadNmZip": "06200",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로70길"
+  },
+  {
+    "roadNmZip": "06200",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로74길"
+  },
+  {
+    "roadNmZip": "06201",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로67길"
+  },
+  {
+    "roadNmZip": "06201",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로69길"
+  },
+  {
+    "roadNmZip": "06201",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로71길"
+  },
+  {
+    "roadNmZip": "06201",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로78길"
+  },
+  {
+    "roadNmZip": "06203",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로77길"
+  },
+  {
+    "roadNmZip": "06203",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로63길"
+  },
+  {
+    "roadNmZip": "06204",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로69길"
+  },
+  {
+    "roadNmZip": "06204",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로73길"
+  },
+  {
+    "roadNmZip": "06205",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로63길"
+  },
+  {
+    "roadNmZip": "06205",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로64길"
+  },
+  {
+    "roadNmZip": "06205",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로66길"
+  },
+  {
+    "roadNmZip": "06206",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로62길"
+  },
+  {
+    "roadNmZip": "06208",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로61길"
+  },
+  {
+    "roadNmZip": "06210",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로86길"
+  },
+  {
+    "roadNmZip": "06210",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로90길"
+  },
+  {
+    "roadNmZip": "06210",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로44길"
+  },
+  {
+    "roadNmZip": "06211",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로48길"
+  },
+  {
+    "roadNmZip": "06211",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로52길"
+  },
+  {
+    "roadNmZip": "06212",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로85길"
+  },
+  {
+    "roadNmZip": "06212",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로87길"
+  },
+  {
+    "roadNmZip": "06212",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로89길"
+  },
+  {
+    "roadNmZip": "06216",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로52길"
+  },
+  {
+    "roadNmZip": "06217",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로69길"
+  },
+  {
+    "roadNmZip": "06218",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로51길"
+  },
+  {
+    "roadNmZip": "06218",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로57길"
+  },
+  {
+    "roadNmZip": "06218",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로63길"
+  },
+  {
+    "roadNmZip": "06219",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로43길"
+  },
+  {
+    "roadNmZip": "06219",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로70길"
+  },
+  {
+    "roadNmZip": "06220",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로86길"
+  },
+  {
+    "roadNmZip": "06220",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로87길"
+  },
+  {
+    "roadNmZip": "06220",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로28길"
+  },
+  {
+    "roadNmZip": "06220",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로34길"
+  },
+  {
+    "roadNmZip": "06221",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로85길"
+  },
+  {
+    "roadNmZip": "06221",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로89길"
+  },
+  {
+    "roadNmZip": "06221",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로38길"
+  },
+  {
+    "roadNmZip": "06222",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로79길"
+  },
+  {
+    "roadNmZip": "06222",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로81길"
+  },
+  {
+    "roadNmZip": "06223",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로80길"
+  },
+  {
+    "roadNmZip": "06223",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로25길"
+  },
+  {
+    "roadNmZip": "06223",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로30길"
+  },
+  {
+    "roadNmZip": "06223",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로32길"
+  },
+  {
+    "roadNmZip": "06224",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로74길"
+  },
+  {
+    "roadNmZip": "06224",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로76길"
+  },
+  {
+    "roadNmZip": "06224",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로33길"
+  },
+  {
+    "roadNmZip": "06225",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로75길"
+  },
+  {
+    "roadNmZip": "06225",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로37길"
+  },
+  {
+    "roadNmZip": "06226",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로37길"
+  },
+  {
+    "roadNmZip": "06226",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로67길"
+  },
+  {
+    "roadNmZip": "06226",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로69길"
+  },
+  {
+    "roadNmZip": "06226",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로71길"
+  },
+  {
+    "roadNmZip": "06226",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로34길"
+  },
+  {
+    "roadNmZip": "06226",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로38길"
+  },
+  {
+    "roadNmZip": "06227",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로68길"
+  },
+  {
+    "roadNmZip": "06227",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로70길"
+  },
+  {
+    "roadNmZip": "06227",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로72길"
+  },
+  {
+    "roadNmZip": "06227",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로25길"
+  },
+  {
+    "roadNmZip": "06227",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로27길"
+  },
+  {
+    "roadNmZip": "06227",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로26길"
+  },
+  {
+    "roadNmZip": "06228",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로64길"
+  },
+  {
+    "roadNmZip": "06228",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로66길"
+  },
+  {
+    "roadNmZip": "06228",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로33길"
+  },
+  {
+    "roadNmZip": "06229",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로63길"
+  },
+  {
+    "roadNmZip": "06229",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로65길"
+  },
+  {
+    "roadNmZip": "06230",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로39길"
+  },
+  {
+    "roadNmZip": "06232",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로84길"
+  },
+  {
+    "roadNmZip": "06232",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로2길"
+  },
+  {
+    "roadNmZip": "06232",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로4길"
+  },
+  {
+    "roadNmZip": "06233",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로6길"
+  },
+  {
+    "roadNmZip": "06233",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로8길"
+  },
+  {
+    "roadNmZip": "06234",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로85길"
+  },
+  {
+    "roadNmZip": "06234",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로10길"
+  },
+  {
+    "roadNmZip": "06234",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로14길"
+  },
+  {
+    "roadNmZip": "06235",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로87길"
+  },
+  {
+    "roadNmZip": "06235",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로16길"
+  },
+  {
+    "roadNmZip": "06235",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로20길"
+  },
+  {
+    "roadNmZip": "06236",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로22길"
+  },
+  {
+    "roadNmZip": "06236",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "테헤란로26길"
+  },
+  {
+    "roadNmZip": "06237",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로79길"
+  },
+  {
+    "roadNmZip": "06237",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로81길"
+  },
+  {
+    "roadNmZip": "06237",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로17길"
+  },
+  {
+    "roadNmZip": "06240",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로78길"
+  },
+  {
+    "roadNmZip": "06242",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로1길"
+  },
+  {
+    "roadNmZip": "06242",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로3길"
+  },
+  {
+    "roadNmZip": "06243",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로5길"
+  },
+  {
+    "roadNmZip": "06243",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로7길"
+  },
+  {
+    "roadNmZip": "06244",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로11길"
+  },
+  {
+    "roadNmZip": "06244",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로15길"
+  },
+  {
+    "roadNmZip": "06244",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로9길"
+  },
+  {
+    "roadNmZip": "06245",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로75길"
+  },
+  {
+    "roadNmZip": "06246",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로77길"
+  },
+  {
+    "roadNmZip": "06246",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로19길"
+  },
+  {
+    "roadNmZip": "06247",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로23길"
+  },
+  {
+    "roadNmZip": "06248",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로67길"
+  },
+  {
+    "roadNmZip": "06248",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로71길"
+  },
+  {
+    "roadNmZip": "06248",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로23길"
+  },
+  {
+    "roadNmZip": "06248",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로20길"
+  },
+  {
+    "roadNmZip": "06249",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로14길"
+  },
+  {
+    "roadNmZip": "06249",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로18길"
+  },
+  {
+    "roadNmZip": "06250",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로10길"
+  },
+  {
+    "roadNmZip": "06250",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로12길"
+  },
+  {
+    "roadNmZip": "06250",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로8길"
+  },
+  {
+    "roadNmZip": "06251",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로66길"
+  },
+  {
+    "roadNmZip": "06252",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로2길"
+  },
+  {
+    "roadNmZip": "06252",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "역삼로4길"
+  },
+  {
+    "roadNmZip": "06253",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로62길"
+  },
+  {
+    "roadNmZip": "06253",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로1길"
+  },
+  {
+    "roadNmZip": "06253",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로3길"
+  },
+  {
+    "roadNmZip": "06254",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로5길"
+  },
+  {
+    "roadNmZip": "06254",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로7길"
+  },
+  {
+    "roadNmZip": "06255",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로63길"
+  },
+  {
+    "roadNmZip": "06255",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로11길"
+  },
+  {
+    "roadNmZip": "06255",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로13길"
+  },
+  {
+    "roadNmZip": "06256",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로65길"
+  },
+  {
+    "roadNmZip": "06256",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로17길"
+  },
+  {
+    "roadNmZip": "06256",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로19길"
+  },
+  {
+    "roadNmZip": "06256",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로21길"
+  },
+  {
+    "roadNmZip": "06257",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로61길"
+  },
+  {
+    "roadNmZip": "06258",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로54길"
+  },
+  {
+    "roadNmZip": "06258",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로58길"
+  },
+  {
+    "roadNmZip": "06258",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡동"
+  },
+  {
+    "roadNmZip": "06258",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로2길"
+  },
+  {
+    "roadNmZip": "06258",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로4길"
+  },
+  {
+    "roadNmZip": "06259",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로6길"
+  },
+  {
+    "roadNmZip": "06259",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로8길"
+  },
+  {
+    "roadNmZip": "06260",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로14길"
+  },
+  {
+    "roadNmZip": "06261",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로57길"
+  },
+  {
+    "roadNmZip": "06261",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로18길"
+  },
+  {
+    "roadNmZip": "06261",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로22길"
+  },
+  {
+    "roadNmZip": "06264",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "남부순환로359길"
+  },
+  {
+    "roadNmZip": "06264",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "남부순환로363길"
+  },
+  {
+    "roadNmZip": "06265",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로48길"
+  },
+  {
+    "roadNmZip": "06265",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "남부순환로351길"
+  },
+  {
+    "roadNmZip": "06266",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로44길"
+  },
+  {
+    "roadNmZip": "06266",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "남부순환로355길"
+  },
+  {
+    "roadNmZip": "06267",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "강남대로42길"
+  },
+  {
+    "roadNmZip": "06267",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "남부순환로"
+  },
+  {
+    "roadNmZip": "06268",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "남부순환로361길"
+  },
+  {
+    "roadNmZip": "06269",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "남부순환로365길"
+  },
+  {
+    "roadNmZip": "06269",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로51길"
+  },
+  {
+    "roadNmZip": "06270",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로41길"
+  },
+  {
+    "roadNmZip": "06270",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로47길"
+  },
+  {
+    "roadNmZip": "06272",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로58길"
+  },
+  {
+    "roadNmZip": "06272",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로28길"
+  },
+  {
+    "roadNmZip": "06273",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로57길"
+  },
+  {
+    "roadNmZip": "06274",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "남부순환로373길"
+  },
+  {
+    "roadNmZip": "06274",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "남부순환로375길"
+  },
+  {
+    "roadNmZip": "06274",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "남부순환로377길"
+  },
+  {
+    "roadNmZip": "06274",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "남부순환로379길"
+  },
+  {
+    "roadNmZip": "06274",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "남부순환로381길"
+  },
+  {
+    "roadNmZip": "06278",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로64길"
+  },
+  {
+    "roadNmZip": "06279",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로70길"
+  },
+  {
+    "roadNmZip": "06279",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로78길"
+  },
+  {
+    "roadNmZip": "06279",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로51길"
+  },
+  {
+    "roadNmZip": "06279",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로57길"
+  },
+  {
+    "roadNmZip": "06280",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "남부순환로391길"
+  },
+  {
+    "roadNmZip": "06280",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "남부순환로395길"
+  },
+  {
+    "roadNmZip": "06280",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "남부순환로397길"
+  },
+  {
+    "roadNmZip": "06282",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "도곡로84길"
+  },
+  {
+    "roadNmZip": "06282",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로58길"
+  },
+  {
+    "roadNmZip": "06282",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로57길"
+  },
+  {
+    "roadNmZip": "06286",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로50길"
+  },
+  {
+    "roadNmZip": "06287",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "양재천서자전거길"
+  },
+  {
+    "roadNmZip": "06289",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "양재천로"
+  },
+  {
+    "roadNmZip": "06292",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로30길"
+  },
+  {
+    "roadNmZip": "06296",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "남부순환로370길"
+  },
+  {
+    "roadNmZip": "06296",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "남부순환로378길"
+  },
+  {
+    "roadNmZip": "06296",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로30길"
+  },
+  {
+    "roadNmZip": "06296",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로32길"
+  },
+  {
+    "roadNmZip": "06296",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로34길"
+  },
+  {
+    "roadNmZip": "06296",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로36길"
+  },
+  {
+    "roadNmZip": "06296",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로38길"
+  },
+  {
+    "roadNmZip": "06297",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로29길"
+  },
+  {
+    "roadNmZip": "06300",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로24길"
+  },
+  {
+    "roadNmZip": "06300",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로26길"
+  },
+  {
+    "roadNmZip": "06300",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로28길"
+  },
+  {
+    "roadNmZip": "06303",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포동"
+  },
+  {
+    "roadNmZip": "06303",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로"
+  },
+  {
+    "roadNmZip": "06303",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로15길"
+  },
+  {
+    "roadNmZip": "06303",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로17길"
+  },
+  {
+    "roadNmZip": "06303",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "양재천동자전거길"
+  },
+  {
+    "roadNmZip": "06304",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로25길"
+  },
+  {
+    "roadNmZip": "06304",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로31길"
+  },
+  {
+    "roadNmZip": "06304",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로22길"
+  },
+  {
+    "roadNmZip": "06306",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로21길"
+  },
+  {
+    "roadNmZip": "06306",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로35길"
+  },
+  {
+    "roadNmZip": "06307",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로20길"
+  },
+  {
+    "roadNmZip": "06307",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로22길"
+  },
+  {
+    "roadNmZip": "06307",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로16길"
+  },
+  {
+    "roadNmZip": "06307",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로18길"
+  },
+  {
+    "roadNmZip": "06307",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로20길"
+  },
+  {
+    "roadNmZip": "06308",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로24길"
+  },
+  {
+    "roadNmZip": "06308",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로26길"
+  },
+  {
+    "roadNmZip": "06308",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로28길"
+  },
+  {
+    "roadNmZip": "06309",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로30길"
+  },
+  {
+    "roadNmZip": "06309",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로32길"
+  },
+  {
+    "roadNmZip": "06309",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로34길"
+  },
+  {
+    "roadNmZip": "06309",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로36길"
+  },
+  {
+    "roadNmZip": "06309",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로38길"
+  },
+  {
+    "roadNmZip": "06310",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로7길"
+  },
+  {
+    "roadNmZip": "06312",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로10길"
+  },
+  {
+    "roadNmZip": "06312",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로12길"
+  },
+  {
+    "roadNmZip": "06312",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로14길"
+  },
+  {
+    "roadNmZip": "06313",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로2길"
+  },
+  {
+    "roadNmZip": "06313",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로6길"
+  },
+  {
+    "roadNmZip": "06313",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로8길"
+  },
+  {
+    "roadNmZip": "06313",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "양재대로"
+  },
+  {
+    "roadNmZip": "06314",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "논현로4길"
+  },
+  {
+    "roadNmZip": "06322",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "언주로6길"
+  },
+  {
+    "roadNmZip": "06324",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로18길"
+  },
+  {
+    "roadNmZip": "06325",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로10길"
+  },
+  {
+    "roadNmZip": "06325",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로12길"
+  },
+  {
+    "roadNmZip": "06325",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로14길"
+  },
+  {
+    "roadNmZip": "06325",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로16길"
+  },
+  {
+    "roadNmZip": "06325",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로4길"
+  },
+  {
+    "roadNmZip": "06325",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로6길"
+  },
+  {
+    "roadNmZip": "06325",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "선릉로8길"
+  },
+  {
+    "roadNmZip": "06327",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로3길"
+  },
+  {
+    "roadNmZip": "06329",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로82길"
+  },
+  {
+    "roadNmZip": "06329",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로88길"
+  },
+  {
+    "roadNmZip": "06329",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "삼성로4길"
+  },
+  {
+    "roadNmZip": "06330",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "일원동"
+  },
+  {
+    "roadNmZip": "06334",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로109길"
+  },
+  {
+    "roadNmZip": "06337",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로110길"
+  },
+  {
+    "roadNmZip": "06337",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "일원로"
+  },
+  {
+    "roadNmZip": "06338",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로116길"
+  },
+  {
+    "roadNmZip": "06338",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로118길"
+  },
+  {
+    "roadNmZip": "06338",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로120길"
+  },
+  {
+    "roadNmZip": "06338",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로124길"
+  },
+  {
+    "roadNmZip": "06338",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "일원로3길"
+  },
+  {
+    "roadNmZip": "06339",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로128길"
+  },
+  {
+    "roadNmZip": "06339",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로130길"
+  },
+  {
+    "roadNmZip": "06339",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로136길"
+  },
+  {
+    "roadNmZip": "06339",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로138길"
+  },
+  {
+    "roadNmZip": "06339",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "개포로140길"
+  },
+  {
+    "roadNmZip": "06340",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "수서동"
+  },
+  {
+    "roadNmZip": "06341",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "양재대로55길"
+  },
+  {
+    "roadNmZip": "06342",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "양재대로43길"
+  },
+  {
+    "roadNmZip": "06342",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "양재대로45길"
+  },
+  {
+    "roadNmZip": "06342",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "양재대로47길"
+  },
+  {
+    "roadNmZip": "06342",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "양재대로49길"
+  },
+  {
+    "roadNmZip": "06342",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "양재대로51길"
+  },
+  {
+    "roadNmZip": "06342",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "양재대로53길"
+  },
+  {
+    "roadNmZip": "06342",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "일원로5길"
+  },
+  {
+    "roadNmZip": "06342",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "일원로9길"
+  },
+  {
+    "roadNmZip": "06343",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "양재대로27길"
+  },
+  {
+    "roadNmZip": "06343",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "양재대로29길"
+  },
+  {
+    "roadNmZip": "06343",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "양재대로31길"
+  },
+  {
+    "roadNmZip": "06343",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "양재대로33길"
+  },
+  {
+    "roadNmZip": "06343",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "양재대로35길"
+  },
+  {
+    "roadNmZip": "06343",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "양재대로37길"
+  },
+  {
+    "roadNmZip": "06343",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "양재대로39길"
+  },
+  {
+    "roadNmZip": "06343",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "양재대로41길"
+  },
+  {
+    "roadNmZip": "06344",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "일원로8길"
+  },
+  {
+    "roadNmZip": "06345",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "영동대로4길"
+  },
+  {
+    "roadNmZip": "06347",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "광평로51길"
+  },
+  {
+    "roadNmZip": "06348",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "광평로59길"
+  },
+  {
+    "roadNmZip": "06349",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "광평로"
+  },
+  {
+    "roadNmZip": "06349",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "밤고개로1길"
+  },
+  {
+    "roadNmZip": "06350",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "광평로1길"
+  },
+  {
+    "roadNmZip": "06350",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "광평로3길"
+  },
+  {
+    "roadNmZip": "06350",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "광평로5길"
+  },
+  {
+    "roadNmZip": "06350",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "광평로7길"
+  },
+  {
+    "roadNmZip": "06350",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "광평로9길"
+  },
+  {
+    "roadNmZip": "06350",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "일원로14길"
+  },
+  {
+    "roadNmZip": "06352",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "광평로39길"
+  },
+  {
+    "roadNmZip": "06352",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "광평로47길"
+  },
+  {
+    "roadNmZip": "06353",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "광평로31길"
+  },
+  {
+    "roadNmZip": "06354",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "광평로19길"
+  },
+  {
+    "roadNmZip": "06358",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "양재대로16길"
+  },
+  {
+    "roadNmZip": "06359",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "광평로10길"
+  },
+  {
+    "roadNmZip": "06361",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "광평로20길"
+  },
+  {
+    "roadNmZip": "06362",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "광평로34길"
+  },
+  {
+    "roadNmZip": "06362",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "광평로42길"
+  },
+  {
+    "roadNmZip": "06362",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "광평로46길"
+  },
+  {
+    "roadNmZip": "06362",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "밤고개로"
+  },
+  {
+    "roadNmZip": "06364",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "밤고개로12길"
+  },
+  {
+    "roadNmZip": "06364",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "밤고개로14길"
+  },
+  {
+    "roadNmZip": "06364",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "자곡동"
+  },
+  {
+    "roadNmZip": "06365",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "밤고개로34길"
+  },
+  {
+    "roadNmZip": "06365",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "밤고개로36길"
+  },
+  {
+    "roadNmZip": "06365",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "세곡동"
+  },
+  {
+    "roadNmZip": "06365",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "헌릉로570길"
+  },
+  {
+    "roadNmZip": "06365",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "헌릉로590길"
+  },
+  {
+    "roadNmZip": "06365",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "헌릉로618길"
+  },
+  {
+    "roadNmZip": "06365",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "헌릉로622길"
+  },
+  {
+    "roadNmZip": "06367",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "광평로56길"
+  },
+  {
+    "roadNmZip": "06367",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "밤고개로5길"
+  },
+  {
+    "roadNmZip": "06369",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "광평로60길"
+  },
+  {
+    "roadNmZip": "06369",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "밤고개로15길"
+  },
+  {
+    "roadNmZip": "06369",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "자곡로"
+  },
+  {
+    "roadNmZip": "06369",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "자곡로11길"
+  },
+  {
+    "roadNmZip": "06370",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "밤고개로21길"
+  },
+  {
+    "roadNmZip": "06370",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "율현동"
+  },
+  {
+    "roadNmZip": "06371",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "헌릉로"
+  },
+  {
+    "roadNmZip": "06371",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "헌릉로718길"
+  },
+  {
+    "roadNmZip": "06371",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "헌릉로758길"
+  },
+  {
+    "roadNmZip": "06372",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "자곡로7길"
+  },
+  {
+    "roadNmZip": "06374",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "자곡로3길"
+  },
+  {
+    "roadNmZip": "06376",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "헌릉로569길"
+  },
+  {
+    "roadNmZip": "06376",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "헌릉로571길"
+  },
+  {
+    "roadNmZip": "06377",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "밤고개로24길"
+  },
+  {
+    "roadNmZip": "06377",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "밤고개로26길"
+  },
+  {
+    "roadNmZip": "06377",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "밤고개로28길"
+  },
+  {
+    "roadNmZip": "06378",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "밤고개로23길"
+  },
+  {
+    "roadNmZip": "06378",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "밤고개로27길"
+  },
+  {
+    "roadNmZip": "06378",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "밤고개로29길"
+  },
+  {
+    "roadNmZip": "06378",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "밤고개로31길"
+  },
+  {
+    "roadNmZip": "06378",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "헌릉로637길"
+  },
+  {
+    "roadNmZip": "06378",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "헌릉로645길"
+  },
+  {
+    "roadNmZip": "06378",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "헌릉로745길"
+  },
+  {
+    "roadNmZip": "06378",
+    "ctpvNm": "서울특별시",
+    "sggNm": "강남구",
+    "roadNm": "헌릉로757길"
+  }
+]

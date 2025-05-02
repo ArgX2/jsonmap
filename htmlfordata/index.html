@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>위험도 지도</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <style>
+    #map { width: 100%; height: 99vh; }
+
+    .control-container {
+      position: absolute;
+      bottom: 20px;
+      right: 20px;
+      z-index: 1000;
+    }
+
+    .control-container label,
+    .control-container input,
+    .control-container button {
+      display: block;
+      margin: 5px 0;
+      background-color: rgba(255, 255, 255, 0.8);
+      padding: 5px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+    .control-container input[type="number"] {
+      width: 80px;
+    }
+
+    .control-container input[type="range"] {
+      width: 200px;
+    }
+
+    #loadingText {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 2em;
+      color: black;
+      font-weight: bold;
+      z-index: 2000;
+      display: none;
+      background: white;
+      padding: 20px 40px;
+      border-radius: 10px;
+
+      box-shadow: 0 0 100px black;
+
+    }
+
+    #title{
+      position: absolute;
+      top: 5%;
+
+      transform: translate(10%, -50%);
+      font-size: 2em;
+      color: black;
+      font-weight: bold;
+      z-index: 2000;
+      padding: 20px 40px;
+
+      height: 20px;
+      text-align: center;
+      text-shadow:
+              2px 2px 0 white,
+              -2px -2px 0 white,
+              2px -2px 0 white,
+              -2px 2px 0 white;
+    }
+    #explain{
+      position: absolute;
+
+      transform: translate(-8%, -60%);
+      font-size: 20px;
+      color: black;
+      font-weight: bold;
+      z-index: 2000;
+      padding: 20px 40px;
+      height: 20px;
+      text-align: center;
+    }
+
+    label {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      cursor: pointer;
+    }
+
+    [type="checkbox"] {
+      appearance: none;
+      position: relative;
+      border: max(2px) solid gray;
+      width: 35px;
+      height: 25px;
+    }
+
+    [type="checkbox"]::before {
+      content: "";
+      position: absolute;
+
+      width: 8px;
+      height: 15px;
+      border-radius: 10px;
+      transform: scale(1);
+      background-color: gray;
+      transition: left 250ms linear;
+    }
+
+    [type="checkbox"]:checked {
+      background-color: lightblue;
+      border-color: lightblue;
+    }
+
+    [type="checkbox"]:checked::before {
+      background-color: white;
+      left: 20px;
+    }
+
+    [type="checkbox"]:disabled {
+      border-color: lightgray;
+      opacity: 0.7;
+      cursor: not-allowed;
+    }
+
+    [type="checkbox"]:disabled:before {
+      background-color: lightgray;
+    }
+
+    body{
+      overflow: hidden;
+    }
+
+  </style>
+</head>
+<body >
+<div id="map"></div>
+
+<div id="loadingText">로딩중...</div>
+<div id="title">강남구 위험도 지도 (유흥주점,CCTV)
+  <p id="explain">위험도 높음:빨강, 위험도 낮음:파랑 중립:초록 </p>
+</div>
+
+<div class="control-container">
+
+  <label for="densityX">가로 X 세로 네모 개수
+    <input type="number" id="densityX" value="20" min="1" max="200" step="1">
+    <input type="number" id="densityY" value="20" min="1" max="200" step="1">
+    <button id="applyDensity">확인</button>
+  </label>
+
+  <label for="toggleGradient">그라데이션
+    <input id="toggleGradient" type="checkbox" />
+    <span>알람</span>
+
+    <button id="preset50x50">50x50</button>
+    <button id="preset100x100">100x100(부하 조금)</button>
+    <button id="preset150x150">150x150(부하 중간)</button>
+    <button id="preset200x200">200x200(부하 큼)</button>
+    <label for="opacitySlider">투명도 [<span id="opacityValue">0.5</span>]</label>
+    <input type="range" id="opacitySlider" value="0.5" min="0" max="1" step="0.01">
+
+  </label>
+
+
+
+</div>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script>
+  // 지도 초기화
+  let map = L.map('map').setView([37.5172, 127.0473], 13);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors'
+  }).addTo(map);
+
+  // 변수 초기화
+  let gradientVisible = false;  // 그라데이션 표시 여부
+  let densityX = 20;  // 가로 밀도
+  let densityY = 20;  // 세로 밀도
+  let opacity = 0.5;  // 투명도
+  let cachedGradients = {};  // 캐시된 그라데이션 데이터를 저장할 객체
+  let entertainment = [], cctv = [];  // 유흥업소, CCTV 데이터 저장 변수
+
+  // GeoJSON 레이어를 그리는 함수
+  function drawGeoJSON() {
+    fetch('HangJeongDong_ver20250401.geojson')
+            .then(res => res.json())
+            .then(data => {
+              // GeoJSON 레이어 생성
+              const geoJsonLayer = L.geoJSON(data, {
+                color: 'black',
+                weight: 2,
+                opacity: 0.55,
+                fillOpacity: 0
+              });
+
+              // 모든 다른 레이어가 추가된 후 GeoJSON 레이어를 추가
+              geoJsonLayer.addTo(map);
+            })
+            .catch(error => console.error("GeoJSON 파일을 불러오는 데 실패했습니다:", error));
+  }
+
+  // 로딩 텍스트 표시 함수
+  function showLoading() {
+    document.getElementById('loadingText').style.display = 'block';
+  }
+
+  // 로딩 텍스트 숨김 함수
+  function hideLoading() {
+    document.getElementById('loadingText').style.display = 'none';
+  }
+
+  // 위험도 계산 함수 (유흥업소 수와 CCTV 수를 기준으로)
+  function calculateRisk(lat, lon) {
+    function countWithin(data, lat, lon, radius) {
+      return data.filter(d => map.distance([lat, lon], [d.lat, d.lon]) <= radius).length;
+    }
+    const ent = countWithin(entertainment, lat, lon, 250);
+    const cam = countWithin(cctv, lat, lon, 250);
+    return { score: ent * 0.676 - cam * 0.1, entCount: ent, cctvCount: cam };
+  }
+
+  // 위험도에 따라 색상 결정 (색상 그라데이션)
+  function getColor(score) {
+    score = Math.max(-5, Math.min(5, score));  // 위험도 제한
+    const ratio = (score + 5) / 10;
+    const r = Math.round(255 * ratio);
+    const g = Math.round(255 * (1 - Math.abs(score) / 5));
+    const b = Math.round(255 * (1 - ratio));
+    return `rgb(${r},${g},${b})`;
+  }
+
+  // 그라데이션 오버레이를 지도에 그리는 함수
+  function drawRiskOverlay() {
+    showLoading();  // 로딩 표시
+    setTimeout(() => {
+      const minLat = 37.457055, maxLat = 37.536934, minLon = 127.009863, maxLon = 127.123686;
+      const stepLat = (maxLat - minLat) / densityY;
+      const stepLon = (maxLon - minLon) / densityX;
+
+      // 기존 그라데이션 레이어 삭제
+      map.eachLayer(layer => {
+        if (layer instanceof L.Rectangle) map.removeLayer(layer);
+      });
+
+      // 캐시된 그라데이션 데이터를 불러오기
+      const cacheKey = `${densityX}x${densityY}`;
+      if (!cachedGradients[cacheKey]) {
+        const gradients = [];
+        for (let lat = minLat; lat <= maxLat; lat += stepLat) {
+          for (let lon = minLon; lon <= maxLon; lon += stepLon) {
+            const { score } = calculateRisk(lat, lon);  // 위험도 계산
+            const color = getColor(score);  // 위험도에 따른 색상 결정
+            gradients.push({ lat, lon, color });
+          }
+        }
+        cachedGradients[cacheKey] = gradients;  // 캐시에 저장
+      }
+
+      // 캐시된 데이터로 그라데이션 오버레이 그리기
+      cachedGradients[cacheKey].forEach(({ lat, lon, color }) => {
+        const stepLat = (37.536934 - 37.457055) / densityY;
+        const stepLon = (127.123686 - 127.009863) / densityX;
+        L.rectangle([[lat, lon], [lat + stepLat, lon + stepLon]], {
+          color: color, weight: 0,
+          fillColor: color, fillOpacity: opacity
+        }).addTo(map);
+      });
+      hideLoading();  // 로딩 숨기기
+      drawGeoJSON();
+    }, 10);
+  }
+
+
+
+  // 지도 클릭 시, 위험도 정보 표시
+  map.on('click', function(e) {
+    const { lat, lng } = e.latlng;
+    const roundedLat = Number(lat.toFixed(6));
+    const roundedLng = Number(lng.toFixed(6));
+
+    if (window.currentMarker) map.removeLayer(window.currentMarker);
+    if (window.currentCircle) map.removeLayer(window.currentCircle);
+
+    const risk = calculateRisk(roundedLat, roundedLng);
+
+    window.currentCircle = L.circle([roundedLat, roundedLng], {
+      radius: 250,
+      color: 'purple',
+      fillOpacity: 0
+    }).addTo(map);
+
+    window.currentMarker = L.marker([roundedLat, roundedLng])
+            .bindPopup(
+                    `<b>위험도 점수: ${risk.score.toFixed(1)}</b><br>` +
+                    `유흥업소 수: ${risk.entCount}<br>` +
+                    `CCTV 수: ${risk.cctvCount}<br>` +
+                    `위도: ${roundedLat}<br>` +
+                    `경도: ${roundedLng}`
+            )
+            .addTo(map)
+            .openPopup();
+  });
+
+
+
+
+
+  // 유흥업소 및 CCTV 데이터 불러오기
+  Promise.all([
+    fetch('entertainment.json').then(res => res.json()),
+    fetch('cctv.json').then(res => res.json())
+  ]).then(([entData, cctvData]) => {
+    entertainment = entData;
+    cctv = cctvData;
+    // 유흥업소와 CCTV를 지도에 표시
+    entertainment.forEach(d => L.circleMarker([d.lat, d.lon], {radius: 2, color: 'red'}).addTo(map));
+    cctv.forEach(d => L.circleMarker([d.lat, d.lon], {radius: 1, color: 'blue'}).addTo(map));
+  });
+
+
+  // 그라데이션 표시/숨기기 버튼 클릭 이벤트
+  document.getElementById('toggleGradient').onclick = function() {
+    gradientVisible = !gradientVisible;  // 그라데이션 표시 상태 변경
+    this.textContent = gradientVisible ? 'OFF' : 'ON';
+    if (gradientVisible) drawRiskOverlay();  // 그라데이션 표시
+    else map.eachLayer(l => l instanceof L.Rectangle && map.removeLayer(l));  // 그라데이션 숨기기
+    drawGeoJSON();
+  };
+
+  // 밀도 변경 시, 그라데이션 새로 그리기
+  document.getElementById('applyDensity').onclick = function() {
+    densityX = parseInt(document.getElementById('densityX').value);
+    densityY = parseInt(document.getElementById('densityY').value);
+    drawRiskOverlay();  // 밀도 변경 후 그라데이션 그리기
+    drawGeoJSON();
+  };
+
+  // 프리셋 밀도 설정 함수
+  function setPreset(x, y) {
+    densityX = x;
+    densityY = y;
+    document.getElementById('densityX').value = x;
+    document.getElementById('densityY').value = y;
+    drawRiskOverlay();  // 프리셋 설정 후 그라데이션 그리기
+    drawGeoJSON();
+  }
+
+  // 프리셋 버튼 클릭 이벤트
+
+  document.getElementById('preset50x50').onclick = () => setPreset(50, 50);
+  document.getElementById('preset100x100').onclick = () => setPreset(100, 100);
+  document.getElementById('preset150x150').onclick = () => setPreset(150, 150);
+  document.getElementById('preset200x200').onclick = () => setPreset(200, 200);
+
+
+  // 투명도 변경 이벤트
+  document.getElementById('opacitySlider').addEventListener('change', function () {
+    opacity = this.value;  // 투명도 값 업데이트
+    document.getElementById('opacityValue').textContent = opacity;
+    drawRiskOverlay();  // 투명도 변경 후 그라데이션 그리기
+    drawGeoJSON();
+  });
+
+  drawGeoJSON();
+</script>
+</body>
+</html>
