@@ -70,10 +70,23 @@
               2px -2px 0 white,
               -2px 2px 0 white;
     }
-    #explain{
+    #explain1{
       position: absolute;
 
       transform: translate(-8%, -60%);
+      font-size: 20px;
+      color: black;
+      font-weight: bold;
+      z-index: 2000;
+      padding: 20px 40px;
+      height: 20px;
+      text-align: center;
+    }
+
+    #explain2{
+      position: absolute;
+
+      transform: translate(-7%, -10%);
       font-size: 20px;
       color: black;
       font-weight: bold;
@@ -140,12 +153,12 @@
 <div id="map"></div>
 
 <div id="loadingText">로딩중...</div>
-<div id="title">강남구 위험도 지도 (유흥주점,CCTV)
-  <p id="explain">위험도 높음:빨강, 위험도 낮음:파랑 중립:초록 </p>
+<div id="title">강남구 위험도 지도 (유흥주점,CCTV,성범죄자)
+  <p id="explain1">위험도 높음:빨강, 위험도 낮음:파랑 중립:초록 </p>
+  <p id="explain2">파랑점:CCTV, 빨강점:유흥주점, 검정점:성범죄자 위치 </p>
 </div>
 
 <div class="control-container">
-
   <label for="densityX">가로 X 세로 네모 개수
     <input type="number" id="densityX" value="20" min="1" max="200" step="1">
     <input type="number" id="densityY" value="20" min="1" max="200" step="1">
@@ -183,7 +196,7 @@
   let densityY = 20;  // 세로 밀도
   let opacity = 0.5;  // 투명도
   let cachedGradients = {};  // 캐시된 그라데이션 데이터를 저장할 객체
-  let entertainment = [], cctv = [];  // 유흥업소, CCTV 데이터 저장 변수
+  let entertainment = [], cctv = [], criminal = [];  // 유흥업소, CCTV 데이터 저장 변수
 
   // GeoJSON 레이어를 그리는 함수
   function drawGeoJSON() {
@@ -214,25 +227,41 @@
     document.getElementById('loadingText').style.display = 'none';
   }
 
-  // 위험도 계산 함수 (유흥업소 수와 CCTV 수를 기준으로)
+  // 위험도 계산 함수 (유흥업소 수와 CCTV, 범죄자위치 수를 기준으로)
   function calculateRisk(lat, lon) {
     function countWithin(data, lat, lon, radius) {
       return data.filter(d => map.distance([lat, lon], [d.lat, d.lon]) <= radius).length;
     }
     const ent = countWithin(entertainment, lat, lon, 250);
     const cam = countWithin(cctv, lat, lon, 250);
-    return { score: ent * 0.676 - cam * 0.1, entCount: ent, cctvCount: cam };
+    const cri = countWithin(criminal, lat, lon, 250);
+    console.log(`lat: ${lat}, lon: ${lon}, ent: ${ent}, cam: ${cam}, cri: ${cri}`);
+    return { score: ent * 6 + cam * 1 + cri * 3, entCount: ent, cctvCount: cam, criminalCount: cri };
   }
 
-  // 위험도에 따라 색상 결정 (색상 그라데이션)
+
+  // 위험도에 따라 색상 결정 (0에 가까워지면 파랑, 100 이하는 초록, 100 이상은 빨강)
   function getColor(score) {
-    score = Math.max(-5, Math.min(5, score));  // 위험도 제한
-    const ratio = (score + 5) / 10;
-    const r = Math.round(255 * ratio);
-    const g = Math.round(255 * (1 - Math.abs(score) / 5));
-    const b = Math.round(255 * (1 - ratio));
-    return `rgb(${r},${g},${b})`;
+    if (score <= 100) {
+      // 0에 가까운 값은 파랑, 그보다 높은 값은 초록
+      const ratio = score / 100;  // 0에서 1 사이로 비율을 계산
+      const r = 0;                // 빨강은 0
+      const g = Math.round(255 * ratio); // 초록은 비례
+      const b = Math.round(255 * (1 - ratio));  // 파랑은 반비례
+      return `rgb(${r},${g},${b})`;
+    } else {
+      // 100 이상은 빨강
+      const ratio = (score - 100) / 100;  // 0에서 1 사이로 비율을 계산
+      const r = 255;                      // 빨강은 고정
+      const g = Math.round(255 * (1 - ratio));  // 초록은 반비례
+      const b = 0;                        // 파랑은 0
+      return `rgb(${r},${g},${b})`;
+    }
   }
+
+
+
+
 
   // 그라데이션 오버레이를 지도에 그리는 함수
   function drawRiskOverlay() {
@@ -299,6 +328,7 @@
                     `<b>위험도 점수: ${risk.score.toFixed(1)}</b><br>` +
                     `유흥업소 수: ${risk.entCount}<br>` +
                     `CCTV 수: ${risk.cctvCount}<br>` +
+                    `성범죄자 수: ${risk.criminalCount}<br>` +
                     `위도: ${roundedLat}<br>` +
                     `경도: ${roundedLng}`
             )
@@ -313,13 +343,16 @@
   // 유흥업소 및 CCTV 데이터 불러오기
   Promise.all([
     fetch('entertainment.json').then(res => res.json()),
-    fetch('cctv.json').then(res => res.json())
-  ]).then(([entData, cctvData]) => {
+    fetch('cctv.json').then(res => res.json()),
+    fetch('output.json').then(res => res.json())
+  ]).then(([entData, cctvData, criminalData]) => {
     entertainment = entData;
     cctv = cctvData;
+    criminal = criminalData;
     // 유흥업소와 CCTV를 지도에 표시
     entertainment.forEach(d => L.circleMarker([d.lat, d.lon], {radius: 2, color: 'red'}).addTo(map));
     cctv.forEach(d => L.circleMarker([d.lat, d.lon], {radius: 1, color: 'blue'}).addTo(map));
+    criminal.forEach(d => L.circleMarker([d.lat, d.lon], {radius: 2, color: 'black'}).addTo(map));
   });
 
 
